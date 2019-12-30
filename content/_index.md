@@ -1,4 +1,3 @@
-
 ---
 title: Fort Qu'appelle
 date: 2019-12-30

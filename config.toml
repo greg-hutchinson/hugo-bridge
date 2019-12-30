@@ -10,12 +10,12 @@ theme = "ananke"
     identifier = "results"
     name = "Results"
     pre = "<i class='fa fa-heart'></i>"
-    url = "/static/results/160701a.htm"
+    url = "/results"
     weight = -110
 
   [[menu.main]]
-    name = "getting started"
+    name = "One Results"
     post = "<span class='alert'>New!</span>"
     pre = "<i class='fa fa-road'></i>"
-    url = "/getting-started/"
+    url = "/results/160701a.htm"
     weight = -100
