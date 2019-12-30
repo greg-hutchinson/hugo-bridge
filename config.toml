@@ -1,4 +1,21 @@
 baseURL = "http://example.org/"
 languageCode = "en-us"
-title = "My New Hugo Site"
-theme = "meghna-hugo"
+title = "Fort Qu'appelle Duplicate Bridge"
+theme = "ananke"
+
+
+[menu]
+
+  [[menu.main]]
+    identifier = "results"
+    name = "Results"
+    pre = "<i class='fa fa-heart'></i>"
+    url = "/static/results/160701a.htm"
+    weight = -110
+
+  [[menu.main]]
+    name = "getting started"
+    post = "<span class='alert'>New!</span>"
+    pre = "<i class='fa fa-road'></i>"
+    url = "/getting-started/"
+    weight = -100
