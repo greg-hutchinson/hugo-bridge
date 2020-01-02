@@ -12,4 +12,8 @@ As Grace Hopper said
 
 > I've always been more interested in the future than the past.
 
+{{< figure src="/media/GrimReaper.jpg" title="Grim" >}}
+
+Why is this not properly rotated?
+
 {{< figure src="/media/BensonAndGrim1.jpg" title="Grim and Benson" >}}
