@@ -20,5 +20,10 @@ Why is this not properly rotated?
 
 {{< figure src="/media/BensonAndGrim1.jpg" title="Grim and Benson" >}}
 
+this \
+is  
 
-Google calendars can be shown here by using a standard embed.
+Google ~~ca~~lendars can be shown here by using a standard embed.
+
+- [x] this is tasklist
+- [ ] this isn't done yet
