@@ -7,8 +7,7 @@
     <section class="flex-ns flex-wrap justify-around mt5">
       {{ range (readDir "./static/results/") }}
         <div class="relative w-100 w-30-l mb4 bg-white">
-          {{ printf "%#v\n" .Name }}
-          <a href="/results/{{.Name}}" /a>
+          <a href="/results/{{.Name}}"> {{.Name}}</a>
         </div>
       {{ end }}
     </section>
